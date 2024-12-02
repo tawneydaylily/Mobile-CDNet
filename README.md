@@ -3,7 +3,6 @@
 > **Authors:**
 Yinghua Fu, Haifeng Peng, Tingting Zhao, Yize Li, Jiansheng Peng, Dawei Zhang
 
-This repository contains a simple Python implementation of our paper [Mobile-CDNet](https://chat.openai.com/chat).
 
 ### 1. Network
 
@@ -77,10 +76,4 @@ Overall structure of the Mobile-CDNet. (a) A dual-stream encoder with shared wit
 ### 5. License
 Code is released for non-commercial and research purposes only. For commercial purposes, please contact the authors.
 
-### 6. Citation
 
-Please cite our paper if you find the work useful:
-
-```
-abc
-```  
